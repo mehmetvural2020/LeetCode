@@ -12,6 +12,7 @@ git commit -m"...."
 git push --set-upstream <git repo adresi> master
 
 
+
 Your members will have to manually update their local environments. We'll let them know when they visit the repository, or you can share these commands:
 
 git branch -m main <BRANCH>
